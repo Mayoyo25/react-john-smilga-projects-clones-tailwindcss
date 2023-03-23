@@ -1,4 +1,4 @@
-#15 React Projects with Tailwind CSS
+# 15 React Projects with Tailwind CSS
 
 This repository contains a collection of React projects that are originally created by [John Smilga](https://github.com/john-smilga/react-projects) but with the CSS replaced by Tailwind CSS. All credit for the original project ideas and code goes to him.
 
